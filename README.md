@@ -42,4 +42,4 @@ The Specialization is offered by University of Michigan on Coursera
 
 #### The game continues until the entire phrase is revealed (or one player guesses the complete phrase)
 
-#ENJOY!
+##ENJOY!
