@@ -1,6 +1,7 @@
 # Wheel of Python
 This game is the project of the fourth course in Python 3 Programming Specialization.
-The Specialization is offered by University of Michigan on Coursera
+The Specialization is offered by University of Michigan on Coursera. 
+The script deployed object-oriented programming and fully utilized the befinits of class and inheritance. 
 
 
 ## More details about the game
